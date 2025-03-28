@@ -55,10 +55,6 @@
           <text>INFORMÁCIE</text>
           <member>
             <box>
-              <text>ROZVRH</text>
-              <member/>
-            </box>
-            <box>
               <text>CENNÍK</text>
               <member/>
             </box>
@@ -71,6 +67,10 @@
               <member/>
             </box>
           </member>
+        </box>
+        <box>
+          <text>ROZVRH</text>
+          <member/>
         </box>
         <box>
           <text>NOVINKY</text>
