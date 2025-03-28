@@ -800,4 +800,11 @@ ul.dropdown-menu li {
     padding: 0px;
   }
 }
+
+/*FUNFIT UPRAVY*/
+.logo {
+  max-height: 80px; /* vysku upravit podla potreby, pozor, ma to vplyv na responzivny navbar pri zobrazeni na mobile*/
+  width: auto;
+}
+
 /*# sourceMappingURL=style.css.map */
