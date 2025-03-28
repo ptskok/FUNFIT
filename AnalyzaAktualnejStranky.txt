@@ -1,0 +1,25 @@
+  <loc>https://www.bike4fun.info/</loc>
+  <loc>https://www.bike4fun.info/indoor-cycling/</loc>
+  <loc>https://www.bike4fun.info/zumba/</loc>
+  <loc>https://www.bike4fun.info/seniori/</loc>
+  <loc>https://www.bike4fun.info/fitseniori/</loc>
+  <loc>https://www.bike4fun.info/body-pump/</loc>
+  <loc>https://www.bike4fun.info/zdravy-chrbat/</loc>
+  <loc>https://www.bike4fun.info/nadvaha/</loc>
+  <loc>https://www.bike4fun.info/cvicenia-pre-deti-a-mladez/</loc>
+  <loc>https://www.bike4fun.info/power-joga/</loc>
+  <loc>https://www.bike4fun.info/pilates/</loc> - vo vertikalnom navbare (ROZVRH)
+  <loc>https://www.bike4fun.info/cennik/</loc> - vo vertikalnom navbare
+  <loc>https://www.bike4fun.info/o-nas/</loc> - vo vertikalnom navbare
+  <loc>https://www.bike4fun.info/galeria/</loc> - vo vertikalnom navbare
+  <loc>https://www.bike4fun.info/novinky/</loc> - vo vertikalnom navbare
+  <loc>https://www.bike4fun.info/obchodne-podmienky/</loc>
+  <loc>https://www.bike4fun.info/galeria/nggallery/all/body-pump-1</loc>
+  <loc>https://www.bike4fun.info/galeria/nggallery/all/indoor-cycling-1</loc>
+  <loc>https://www.bike4fun.info/galeria/nggallery/all/mikulas-1</loc>
+  <loc>https://www.bike4fun.info/galeria/nggallery/all/body-pump-1/slideshow</loc>
+  <loc>https://www.bike4fun.info/galeria/nggallery/all/indoor-cycling-1/slideshow</loc>
+  <loc>https://www.bike4fun.info/galeria/nggallery/all/mikulas-1/slideshow</loc>
+  <loc>https://www.bike4fun.info/galeria/nggallery/all/body-pump-1/thumbnails</loc>
+  <loc>https://www.bike4fun.info/galeria/nggallery/all/indoor-cycling-1/thumbnails</loc>
+  <loc>https://www.bike4fun.info/galeria/nggallery/all/mikulas-1/thumbnails</loc>

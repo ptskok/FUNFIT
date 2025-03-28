@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/bvcHbjbfod</link>
+  <pubdate>03/28/2025</pubdate>
+  <section>
+    <box>
+      <text>FUNFIT (domovska)</text>
+      <member>
+        <box>
+          <text>DOMOV</text>
+          <member/>
+        </box>
+        <box>
+          <text>KONTAKT</text>
+          <member/>
+        </box>
+        <box>
+          <text>SLUŽBY</text>
+          <member>
+            <box>
+              <text>INDOOR CYCLING</text>
+              <member/>
+            </box>
+            <box>
+              <text>ZUMBA</text>
+              <member/>
+            </box>
+            <box>
+              <text>SENIORI</text>
+              <member/>
+            </box>
+            <box>
+              <text>BODY PUMP</text>
+              <member/>
+            </box>
+            <box>
+              <text>ZDRAVÝ CHRBÁT</text>
+              <member/>
+            </box>
+            <box>
+              <text>NADVÁHA</text>
+              <member/>
+            </box>
+            <box>
+              <text>CVIČENIA PRE DETI A MLÁDEŽ</text>
+              <member/>
+            </box>
+            <box>
+              <text>POWER JOGA</text>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>INFORMÁCIE</text>
+          <member>
+            <box>
+              <text>ROZVRH</text>
+              <member/>
+            </box>
+            <box>
+              <text>CENNÍK</text>
+              <member/>
+            </box>
+            <box>
+              <text>O NÁS</text>
+              <member/>
+            </box>
+            <box>
+              <text>OBCHODNÉ PODMIENKY</text>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>NOVINKY</text>
+          <member/>
+        </box>
+        <box>
+          <text>GALÉRIA</text>
+          <member/>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>
